@@ -5,7 +5,7 @@ const Footer = ()=>{
         <Box p={4}>
             <Typography variant='h5' align="center">Developed by Abhishek yadav</Typography>
             <Typography variant='h5' align="center">
-                <a href='https://github.com' target='_blank' rel='noreferrer'>
+                <a href='https://github.com/abhishek210/Movies-Search' target='_blank' rel='noreferrer'>
                   Github link  
                 </a>
             </Typography>
